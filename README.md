@@ -1,0 +1,3 @@
+# Adv_Applied_Machine_Learning
+Data Science and Machine Learning work from DATA 410 undergraduate data science capstone at William & Mary. 
+This repository is mostly Jupyter Notebooks and HTML files detailing the work done. In the Final project folder is my exploratory final project involving an exploration in using tensorflow deep learning to build a pipeline that can identify videos of idleing trucks. The idea behind this capstone is to eventually spin it off into an app so citizens in NYC can send videos to the city government and recieve a portion of any idling-emissions fines. The app will streamline the process of verifying videos and identifying companies to be fined.
